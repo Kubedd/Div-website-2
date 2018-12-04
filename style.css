@@ -1,0 +1,44 @@
+
+.container {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.headertop {
+    height: 20px;
+    background-color: cornflowerblue;
+}
+
+.headerbotom {
+    height: 20px;
+    background-color: aqua
+}
+
+.columnleft {
+    height: 300px;
+    width: 20%;
+    float: left;
+    background-color: crimson
+}
+
+.columncenter {
+    height: 300px;
+    width: 60%;
+    float: left;
+    background-color: cornsilk
+}
+
+
+.columnright {
+    height: 300px;
+    width: 20%;
+    float: left;
+   background-color: skyblue
+}
+
+.footer {
+    height: 40px;
+    background-color: darkgoldenrod;
+    clear: left;
+}
